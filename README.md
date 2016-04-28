@@ -14,4 +14,4 @@
 
 
  *Note that in the component named "SAEJ6201" (in "CHG" component) you have to write the correct path for the lookupTables: APRR.mat, 
- FP.mat, SOC.mat and HeatTransferProperties.txt
+ FP.mat, SOC.mat and for HeatTransferProperties.txt
